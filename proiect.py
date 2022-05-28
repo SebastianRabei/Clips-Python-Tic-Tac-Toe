@@ -3,7 +3,7 @@ import re
 
 env = clips.Environment() #crearea unei variabile de tip clips
 env.clear() #clear echivalent celui din Clips
-env.load("proiectNou.clp") #load fisier
+env.load("proiect.clp") #load fisier
 env.reset() #reset echivalent celui din Clips
 env.run() #run echivalent celui din Clips
 
